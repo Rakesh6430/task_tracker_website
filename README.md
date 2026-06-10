@@ -28,8 +28,8 @@ TaskFlow Pro is a modern, responsive personal task management web application bu
 
 ## Website
 
-- Local: `file:///d:/Self%20learning/Portfolio/Task%20Tracker%20Website/index.html`
-- Live : `https://rakesh6430.github.io/task_tracker_website/` (replace with your actual hosted URL)
+- Local: [Open `index.html`](file:///d:/Self%20learning/Portfolio/Task%20Tracker%20Website/index.html)
+- Live: [https://rakesh6430.github.io/task_tracker_website/](https://rakesh6430.github.io/task_tracker_website/)
 
 ## Project Structure
 
